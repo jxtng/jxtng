@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justin (@jxtng).
 - 💖 A passionate developer that goes a little beyond
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Everything about Javascript
+- 👀 I’m interested in web development and pr0b1em s01ving
+- 🔍 While I tend to be more analytic and logical, I can tap into my creative side when needed. 
 - 😎 Checkout my second and more current account [@jvstln](http://github.com/jvstln)
 
 
