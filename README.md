@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @jxtng
+- 👋 Hi, I’m Justin (@jxtng).
+- 💖 A passionate developer that goes a little beyond
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Everything about Javascript
+- 😎 Checkout my second and more current account [@jvstln](http://github.com/jvstln)
 
 
 <!---
